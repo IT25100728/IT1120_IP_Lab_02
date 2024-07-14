@@ -1,4 +1,4 @@
-# **IT1120 -- Introduction to Programming**
+# IT1120 -- Introduction to Programming
 
 ## **Lab 2**
 
@@ -9,7 +9,7 @@ is ¾ the size of the length of the fence.
 
 Write a Java program to determine the width and length of the fence.
 
-*\*Hint: Perimeter of a Rectangle = 2 \* (length + width)*
+**Hint:** Perimeter of a Rectangle = 2 * (length + width)
 
   <p align="center">
     <img src="resources/media/image1.png" alt="Image description" style="width:50%; height:50%;">
@@ -27,11 +27,10 @@ Write a Java program to find the radius of the circular fence.
     <img src="resources/media/image2.png" alt="Image description" style="width:50%; height:50%;">
   </p>
 
-*\*Hint: Perimeter of a Square = 4 \* length*
-
-*Circumference of Circle = 2 \* PI \* Radius*
-
-*PI = 22/7*
+**Hint:**
+- Perimeter of a Square = 4 * length
+- Circumference of Circle = 2 * PI * Radius
+- PI = 22/7
 
 ###  Question 3
 
