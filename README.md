@@ -1,6 +1,6 @@
-![](vertopal_b06f8b8a2f8042969d02e5d6b76fc4a9/media/image5.png){width="0.625in"
-height="0.275in"}![](vertopal_b06f8b8a2f8042969d02e5d6b76fc4a9/media/image5.png){width="0.625in"
-height="0.275in"}![](vertopal_b06f8b8a2f8042969d02e5d6b76fc4a9/media/image5.png){width="0.625in"
+![](resources/media/image5.png){width="0.625in"
+height="0.275in"}![](resources/media/image5.png){width="0.625in"
+height="0.275in"}![](resources/media/image5.png){width="0.625in"
 height="0.275in"}
 
 > **IT1120 -- Introduction to Programming** **Lab 2**\
@@ -14,10 +14,10 @@ height="0.275in"}
 
 *length*
 
-![](vertopal_b06f8b8a2f8042969d02e5d6b76fc4a9/media/image1.png){width="1.7638888888888888in"
+![](resources/media/image1.png){width="1.7638888888888888in"
 height="9.722222222222222e-2in"}
 
-> ![](vertopal_b06f8b8a2f8042969d02e5d6b76fc4a9/media/image2.png){width="1.8888888888888888in"
+> ![](resources/media/image2.png){width="1.8888888888888888in"
 > height="1.0416666666666667in"} *width*
 >
 > Question 2 (Tutorial 1 -- Q4)\
@@ -29,10 +29,10 @@ height="9.722222222222222e-2in"}
 
 *length*
 
-> ![](vertopal_b06f8b8a2f8042969d02e5d6b76fc4a9/media/image3.png){width="1.25in"
+> ![](resources/media/image3.png){width="1.25in"
 > height="9.722222222222222e-2in"}
 >
-> ![](vertopal_b06f8b8a2f8042969d02e5d6b76fc4a9/media/image4.png){width="1.2777777777777777in"
+> ![](resources/media/image4.png){width="1.2777777777777777in"
 > height="1.2777777777777777in"}
 >
 > *\*Hint: Perimeter of a Square = 4 \* length*\
