@@ -38,4 +38,4 @@ Write a Java program to find the radius of the circular fence.
 Write a Java program that calculates the length of the hypotenuse of a
 right triangle when two other sides are known.
 
-*\*Hint: Hypotenuse = square root (SideA^2^ + SideB^2^)*
+**Hint:** Hypotenuse = square root (SideA^2 + SideB^2)
