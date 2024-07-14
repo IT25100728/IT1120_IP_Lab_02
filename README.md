@@ -11,6 +11,8 @@ Write a Java program to determine the width and length of the fence.
 
 *\*Hint: Perimeter of a Rectangle = 2 \* (length + width)*
 
+![](/media/image1.png)
+
 ### Question 2 (Tutorial 1 -- Q4)
 
 A rope is used to create a square fence. The length of a side of the
