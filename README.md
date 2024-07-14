@@ -9,7 +9,6 @@ is ¾ the size of the length of the fence.
 
 Write a Java program to determine the width and length of the fence.
 
-**Hint:** Perimeter of a Rectangle = 2 * (length + width)
 *\*Hint: Perimeter of a Rectangle = 2 \* (length + width)*
 
   <p align="center">
@@ -28,14 +27,16 @@ Write a Java program to find the radius of the circular fence.
     <img src="resources/media/image2.png" alt="Image description" style="width:50%; height:50%;">
   </p>
 
-**Hint:**
-- Perimeter of a Square = 4 * length
-- Circumference of Circle = 2 * PI * Radius
-- PI = 22/7
+*\*Hint: Perimeter of a Square = 4 \* length*
+
+*Circumference of Circle = 2 \* PI \* Radius*
+
+*PI = 22/7*
+
 
 ###  Question 3
 
 Write a Java program that calculates the length of the hypotenuse of a
 right triangle when two other sides are known.
 
-**Hint:** Hypotenuse = square root (SideA^2 + SideB^2)
+*\*Hint: Hypotenuse = square root (SideA^2 + SideB^2)*
