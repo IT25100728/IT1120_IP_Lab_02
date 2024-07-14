@@ -10,6 +10,7 @@ is ¾ the size of the length of the fence.
 Write a Java program to determine the width and length of the fence.
 
 **Hint:** Perimeter of a Rectangle = 2 * (length + width)
+*\*Hint: Perimeter of a Rectangle = 2 \* (length + width)*
 
   <p align="center">
     <img src="resources/media/image1.png" alt="Image description" style="width:50%; height:50%;">
