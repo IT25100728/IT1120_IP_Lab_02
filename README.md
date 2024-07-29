@@ -15,6 +15,16 @@ Write a Java program to determine the width and length of the fence.
     <img src="resources/media/image1.png" alt="Image description" style="width:50%; height:50%;">
   </p>
 
+Save the file inside '**Lab 2**' folder as: **ITxxxxxxxxLab2Q1.java**
+
+Replace 'ITxx xxx xxx' of the filename, with your own Student ID.
+
+Expected Output:
+
+  <p align="center">
+    <img src="resources/media/1.png" alt="Image description" style="width:50%; height:50%;">
+  </p>
+
 ### Question 2 (Tutorial 1 -- Q4)
 
 A rope is used to create a square fence. The length of a side of the
@@ -33,6 +43,15 @@ Write a Java program to find the radius of the circular fence.
 
 *PI = 22/7*
 
+Save the file inside '**Lab 2**' folder as: **ITxxxxxxxxLab2Q2.java**
+
+Replace 'ITxx xxx xxx' of the filename, with your own Student ID.
+
+Expected Output:
+
+  <p align="center">
+    <img src="resources/media/2.png" alt="Image description" style="width:50%; height:50%;">
+  </p>
 
 ###  Question 3
 
@@ -40,3 +59,13 @@ Write a Java program that calculates the length of the hypotenuse of a
 right triangle when two other sides are known.
 
 *\*Hint: Hypotenuse = square root (SideA^2 + SideB^2)*
+
+Save the file inside '**Lab 2**' folder as: **ITxxxxxxxxLab2Q3.java**
+
+Replace 'ITxx xxx xxx' of the filename, with your own Student ID.
+
+Expected Output:
+
+  <p align="center">
+    <img src="resources/media/3.png" alt="Image description" style="width:50%; height:50%;">
+  </p>
