@@ -28,7 +28,7 @@ Expected Output:
 ### Question 2 (Tutorial 1 -- Q4)
 
 A rope is used to create a square fence. The length of a side of the
-square is known. Later this same rope is used to create a circular
+square is known (assume it is 10). Later this same rope is used to create a circular
 fence.
 
 Write a Java program to find the radius of the circular fence.
@@ -56,7 +56,7 @@ Expected Output:
 ###  Question 3
 
 Write a Java program that calculates the length of the hypotenuse of a
-right triangle when two other sides are known.
+right triangle when two other sides are known (assume Side A = 3 and Side B = 4).
 
 *\*Hint: Hypotenuse = square root (SideA^2 + SideB^2)*
 
