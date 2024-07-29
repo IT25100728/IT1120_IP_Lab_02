@@ -41,7 +41,7 @@ Write a Java program to find the radius of the circular fence.
 
 *Circumference of Circle = 2 \* PI \* Radius*
 
-*PI = 22/7*
+*PI = 22/7 = 3.14*
 
 Save the file inside '**Lab 2**' folder as: **ITxxxxxxxxLab2Q2.java**
 
